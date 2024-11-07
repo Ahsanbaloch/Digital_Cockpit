@@ -6,5 +6,6 @@ The Instrument Cluster project simulates the digital dashboard of a vehicle, dis
 installation of 
 CMake
 g++
+libgl1-mesa-dev
 etc ect
 -->
